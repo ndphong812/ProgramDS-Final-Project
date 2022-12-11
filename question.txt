@@ -1,4 +1,5 @@
 Các câu hỏi cần trả lời:
-- Thực trạng sản xuất và tiêu thụ khí đốt của các quốc gia châu Âu
-- Nhu cầu của việc sử dụng các loại điện năng ở châu Âu
-- Thực trạng nhiên liệu ngành hàng không các quốc gia châu Âu
+- Q1: Thực trạng sản xuất và tiêu thụ khí đốt của các quốc gia châu Âu
+- Q2: Nhu cầu của việc sử dụng các loại điện năng ở châu Âu
+- Q3: Thực trạng nhiên liệu ngành hàng không các quốc gia châu Âu
+- Q6: Chất thải tiêu thụ ở các nước châu Âu những năm gần đây có xu hướng như thế nào ?
